@@ -1,1 +1,1 @@
-#This folder contains my Learning Projects in Machine learning.
+This folder contains my Learning Projects in Machine learning.
